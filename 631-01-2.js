@@ -8,6 +8,6 @@ function DNAtoRNA(dna) {
 https://www.codewars.com/kata/convert-a-string-to-an-array/train/javascript
 
 function stringToArray(string) {
-  var str = string.split(" ");
+  const str = string.split(" ");
   return str;
 }
